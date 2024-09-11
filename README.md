@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hello, I'm Om!
 
-<!--
-**om-shri-hari/om-shri-hari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate full-stack developer specializing in **PHP, Laravel, JavaScript**, and the **MERN stack**. I'm always eager to explore new technologies and build innovative web applications.
 
-Here are some ideas to get you started:
+- 🌱 Currently learning: **Next.js** and **mobile app development**.
+- 💼 Working on: **eCommerce apps** using the **MERN stack** and **Laravel**.
+- 🚀 Exploring: **AI/ML and Data Science**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills:
+- **Languages**: PHP, JavaScript, C++, Python
+- **Frameworks**: Laravel, Express.js, React, Next.js
+- **Databases**: MySQL, MongoDB
+- **Version Control**: Git, GitHub
+
+📫 Reach me at: [omshrihari1912@gmail.com](mailto:omshrihari1912@gmail.com)
