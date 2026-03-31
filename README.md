@@ -7,9 +7,9 @@ I am a passionate full-stack developer specializing in **PHP, Laravel, JavaScrip
 - 🚀 Exploring: **AI/ML and Data Science**.
 
 ### Skills:
-- **Languages**: PHP, JavaScript, C++, Python
-- **Frameworks**: Laravel, Express.js, React, Next.js
-- **Databases**: MySQL, MongoDB
+- **Languages**: PHP, JavaScript, TypeScript, C++, Python
+- **Frameworks**: Laravel, Express JS, React JS, Next JS, Node JS
+- **Databases**: MySQL, PostgreSQL, Supabase, Redis
 - **Version Control**: Git, GitHub
 
 📫 Reach me at: [omshrihari1912@gmail.com](mailto:omshrihari1912@gmail.com)
